@@ -1,4 +1,4 @@
-const { EmbedBuilder, resolveColor, ActivityType } = require("discord.js");
+const { EmbedBuilder, resolveColor } = require("discord.js");
 const config = require("../config.js");
 const prettyBytes = require("pretty-bytes");
 const colors = require("colors");
